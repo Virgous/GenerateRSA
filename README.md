@@ -1,2 +1,2 @@
 # GenerateRSA
-To test the key you can visit this site [Generator PK](https://generator-97dcc.web.app/?v=123){:target="_blank"}
+To test the key you can visit this site <a href="https://generator-97dcc.web.app/?v=123" target="_blank">Generator PK</a>
